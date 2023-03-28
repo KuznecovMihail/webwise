@@ -1,0 +1,16 @@
+.logo{
+    width: 100px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.form__input{
+    margin: 20px auto;
+}
+
+.form__button{
+    margin: 40px auto;
+}
